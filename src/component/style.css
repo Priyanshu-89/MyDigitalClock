@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: #ddd;
+}
+div{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+h1{
+    color: #800000;
+    background: transparent;
+    text-shadow: 0 2px 2px #bbb;
+    font-size: 40px;
+    border: 2px solid maroon;
+    padding: 10px;
+}
+
